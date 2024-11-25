@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BilliardWinForms", "Billiar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiffusionWinForms", "DiffusionWinForms\DiffusionWinForms.csproj", "{57C9B994-F22D-42B2-BF54-5DCEB232C373}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalutWinForms", "SalutWinForms\SalutWinForms.csproj", "{0BB0BAF3-9D78-4F42-AE70-002AF0C187D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salut2WinForms", "Salut2WinForms\Salut2WinForms.csproj", "{48A48DBD-441B-4420-A308-372B7A5B88DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{57C9B994-F22D-42B2-BF54-5DCEB232C373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C9B994-F22D-42B2-BF54-5DCEB232C373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C9B994-F22D-42B2-BF54-5DCEB232C373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB0BAF3-9D78-4F42-AE70-002AF0C187D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB0BAF3-9D78-4F42-AE70-002AF0C187D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB0BAF3-9D78-4F42-AE70-002AF0C187D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB0BAF3-9D78-4F42-AE70-002AF0C187D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A48DBD-441B-4420-A308-372B7A5B88DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A48DBD-441B-4420-A308-372B7A5B88DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A48DBD-441B-4420-A308-372B7A5B88DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A48DBD-441B-4420-A308-372B7A5B88DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
